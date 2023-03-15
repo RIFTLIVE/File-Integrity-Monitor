@@ -4,5 +4,4 @@ The security of a user's data and files is critical to its success, and it's ess
 
 We wanted to create a file integrity monitor which could continuously monitor the validity of files in a directory, as well as an individual file. 
 
-Team members - Ankith T
-               Sirshak Sarkar
+Team members - Ankith T, Sirshak Sarkar
